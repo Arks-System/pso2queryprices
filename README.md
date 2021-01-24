@@ -1,5 +1,6 @@
 # PSO2 Query Prices
 
+No longer supported.  
 Query prices based on the data from the Proxy.
 
 # External resources
